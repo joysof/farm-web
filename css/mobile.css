@@ -1,0 +1,47 @@
+/* footer style / about section*/
+
+
+@media screen and (width: 765px){
+	#about  h5{
+    margin-top: 50px !important;
+}
+#about h2{
+    margin-top: 50px !important;
+}
+}
+
+
+@media screen and (max-width:890px){
+    /* header */
+    .p{
+        width: 80% !important;
+    }
+    /* products  */
+    #our-products p{
+        width: 80% !important;
+    }
+    .products-conteant{
+        margin-top:10% !important ;
+    }
+
+}
+
+@media screen and (max-width:990px){
+    .products-conteant{
+        margin-top:10% !important ;
+    }
+}
+
+
+@media screen and (max-width: 785px){
+    
+
+    #local-shop img{
+        margin-left:10% !important;
+        margin-top: 5% !important;
+        margin-bottom: 5% !important;
+    }
+    .products-conteant{
+        margin-top:0% !important;
+    }
+}
